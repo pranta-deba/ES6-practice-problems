@@ -7,12 +7,24 @@ I am a web developer. I love to code. I love to eat biryani.
 
 3) Write an arrow function that will take 2 parameters: One paramete will come from you and the other parameter will be a default parameter. Add these two parameters and return the result.
 
-# problem - 3 :
+# problem - 2 :
 
 - Write an arrow function where it will do the following:
 
 a) It will take an array where the array elements will be the name of your friends
 
 b) Check if the length of each element is even, push elements with even length to a new array and return the result. 
+
+Print the result.
+
+
+# problem - 3 :
+- Write an arrow function where it will do the following: x2
+
+a) Square each array element
+
+b) Calculate the sum of the squared elements
+
+c) Return the average of the sum of the squared elements
 
 Print the result.
