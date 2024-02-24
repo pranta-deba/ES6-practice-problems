@@ -15,7 +15,7 @@ a) It will take an array where the array elements will be the name of your frien
 
 b) Check if the length of each element is even, push elements with even length to a new array and return the result. 
 
-Print the result.
+> Print the result.
 
 
 # problem - 3 :
@@ -28,7 +28,7 @@ b) Calculate the sum of the squared elements
 
 c) Return the average of the sum of the squared elements
 
-Print the result.
+> Print the result.
 
 
 # problem - 4 :
@@ -41,4 +41,49 @@ b) Combine the two arrays and assign them in a new array
 
 c) Find the maximum number from the new array and return the result
 
-Print the result.
+> Print the result.
+
+
+
+# problem - 5 :
+
+1) You have an odd array (array with odd numbers). ``[ 1, 3, 5, 7, 9 ]``. Now convert this array into an even array (array with even numbers). ``[ 2, 4, 6, 8, 10 ]``. Do this using for loop & array.map() method. Hints: add one to any odd number and it will become an even number.
+
+2) You are given an array say: ``[33, 50, 79, 78, 90, 101, 30 ]``. Now return/get all the elements which are divisible by 10 using array.filter() method.
+
+> Now do the same task of question 2. But do this using array. find method. Then compare the output of question 2 & question 3.
+
+
+# problem - 6 :
+
+- You have an array of objects:
+
+    ``const instructor = [``
+
+    ``{name: 'Nodi', age:28, position: 'Senior'},``
+    ``{name: 'Akil', age:26, position: Junior'},``
+    ``{name: 'Shobuj', age:30, position: 'Senior'}``
+    
+    ``]``
+    
+> Your task is to display the instructor names that has the position
+senior using filter
+
+
+
+# problem - 7 :
+
+``const people = [ ``
+
+``{ name: 'Meena', age: 20 },``
+
+``{ name: 'Rina', age: 15 },``
+
+``{name: 'Suchorita', age: 22 }``
+
+``];``
+
+- Follow above array of objects. So, you have 3 objects as array element. Can you find out the total sum from here?
+20+ 15 + 22 57. The output will be 57
+What are you thinking? Yeah! Do it with for loop. I know you can do it.
+But! Wait!! Wait !!! Do the same task using array.reduce() method.
