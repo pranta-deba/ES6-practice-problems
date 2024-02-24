@@ -19,6 +19,7 @@ Print the result.
 
 
 # problem - 3 :
+
 - Write an arrow function where it will do the following: x2
 
 a) Square each array element
@@ -26,5 +27,18 @@ a) Square each array element
 b) Calculate the sum of the squared elements
 
 c) Return the average of the sum of the squared elements
+
+Print the result.
+
+
+# problem - 4 :
+
+- Write an arrow function where it will do the following:
+
+a) It will take two array inputs
+
+b) Combine the two arrays and assign them in a new array
+
+c) Find the maximum number from the new array and return the result
 
 Print the result.
